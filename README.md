@@ -31,6 +31,11 @@ What I need from you is the following:
 And that's it! If you don't have any data yet, that's also perfectly fine. We can have a discussion about plans and what options are available so you can hit the ground running when the data does come in.  
 This is all new to me as well and I am still finding my feet, so if you have anything you would like to add, discuss or give feedback on, please by all means give me a shout. I like to think I am pretty approachable as just a few months ago I was in your position too. Plus you will be helping me give a better service to other students in the future.
 
+<p align="center">
+  <img width="300" src="/images/work-flow.png">
+</p>
+
+
 <br>
 
 
